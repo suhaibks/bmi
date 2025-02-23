@@ -1,4 +1,3 @@
-<meta name="pushsdk" content="b007f09a1a7410cdea04b077e8f0efde">
 import React, { useState } from 'react';
 import './App.css';
 
